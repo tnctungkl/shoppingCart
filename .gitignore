@@ -1,0 +1,50 @@
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# PyInstaller / cx_Freeze build files
+build/
+dist/
+*.spec
+
+# IDE / Editor settings (PyCharm / IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# JetBrains local history and other project files
+.idea_modules/
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test and temporary outputs
+.coverage
+*.tmp
+*.bak
+
+# Project executable (better to upload in GitHub Releases instead of repo)
+*.exe
+
+# PostgreSQL dump / backup files
+*.sql
+*.dump
+*.backup
+
+*.env

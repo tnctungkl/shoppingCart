@@ -1,0 +1,87 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Gaming Laptop",
+    "type": "physical",
+    "price": 25999,
+    "quantity_available": 10,
+    "weight": 2.5,
+    "shipping_cost": 999
+  },
+  {
+    "product_id": "P002",
+    "name": "Mechanical Keyboard",
+    "type": "physical",
+    "price": 2499,
+    "quantity_available": 30,
+    "weight": 1.2,
+    "shipping_cost": 999
+  },
+  {
+    "product_id": "P003",
+    "name": "Wireless Headphones",
+    "type": "physical",
+    "price": 1799,
+    "quantity_available": 25,
+    "weight": 0.5,
+    "shipping_cost": 999
+  },
+  {
+    "product_id": "P004",
+    "name": "4K Monitor",
+    "type": "physical",
+    "price": 8999,
+    "quantity_available": 15,
+    "weight": 6.5,
+    "shipping_cost": 999
+  },
+  {
+    "product_id": "P005",
+    "name": "Gaming Mouse",
+    "type": "physical",
+    "price": 799,
+    "quantity_available": 40,
+    "weight": 0.3,
+    "shipping_cost": 999
+  },
+  {
+    "product_id": "D001",
+    "name": "Antivirus Software",
+    "type": "digital",
+    "price": 499,
+    "quantity_available": 100,
+    "download_link": "https://cartcurt.com/digitals/antivirus"
+  },
+  {
+    "product_id": "D002",
+    "name": "Photo Editing Suite",
+    "type": "digital",
+    "price": 1299,
+    "quantity_available": 80,
+    "download_link": "https://cartcurt.com/digitals/photo_editing_suite"
+  },
+  {
+    "product_id": "D003",
+    "name": "Video Editing Software",
+    "type": "digital",
+    "price": 1899,
+    "quantity_available": 60,
+    "download_link": "https://cartcurt.com/digitals/video_editing"
+  },
+  {
+    "product_id": "D004",
+    "name": "E-book: Learn Python",
+    "type": "digital",
+    "price": 299,
+    "quantity_available": 200,
+    "download_link": "https://cartcurt.com/digitals/learn_python"
+  },
+  {
+    "product_id": "D005",
+    "name": "Music Production Software",
+    "type": "digital",
+    "price": 1599,
+    "quantity_available": 50,
+    "download_link": "https://cartcurt.com/digitals/music_production"
+  }
+]
