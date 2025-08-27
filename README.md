@@ -99,7 +99,7 @@ CLI Mode:
 
 ---
 
-## 💥 İmportant Reminder:
+## 💥 Important Reminder:
 
 - Don't forget to change the database information in the code!
 
