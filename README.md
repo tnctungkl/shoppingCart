@@ -35,7 +35,7 @@ This project demonstrates strong skills in **Python desktop development, databas
 
 ---
 
-## ✨ Key Features:
+## ✨ Essential Key Features:
 
 - **Dual Interface Support**:  
   - 🌐 **GUI**: Modern, theme-based Tkinter application  
@@ -72,6 +72,7 @@ This project demonstrates strong skills in **Python desktop development, databas
 ### Requirements:
 - Python **3.10+**
 - PostgreSQL **17+**
+- Dependencies listed in `requirements.txt`
 - Dependencies:
   ```
   pip install -r requirements.txt
