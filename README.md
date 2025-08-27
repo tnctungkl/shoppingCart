@@ -72,8 +72,9 @@ This project demonstrates strong skills in **Python desktop development, databas
 - Python **3.10+**
 - PostgreSQL **17+**
 - Dependencies:
-  ```bash
+  ```
   pip install -r requirements.txt
+  ```
 
 ### Running the Application:
 GUI Mode (default):
