@@ -29,7 +29,7 @@ This project demonstrates strong skills in **Python desktop development, databas
 ├── shppngCart.py
 ├── tungshoop_sql.sql
 ├── requirements.txt
-├── .gitignore
+└── .gitignore
 
 ---
 
