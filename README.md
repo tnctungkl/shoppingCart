@@ -1,11 +1,5 @@
 # 🛒 Tungshoop – Shopping Cart
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
-![Tkinter](https://img.shields.io/badge/UI-Tkinter-brightgreen?logo=windows)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 **Tungshoop** is a feature-rich **Shopping Cart Management System** that provides both a **Graphical User Interface (GUI)** built with Tkinter + ttkbootstrap, and a **Command-Line Interface (CLI)** mode for terminal-based usage.  
 The system integrates **PostgreSQL logging**, supports both **physical and digital products**, and enables **multi-format data exports (JSON, Excel, PDF, DOCX)**.  
 This project demonstrates strong skills in **Python desktop development, database integration, and clean software design**, making it a valuable addition to any professional portfolio.
@@ -32,6 +26,11 @@ This project demonstrates strong skills in **Python desktop development, databas
 ├── requirements.txt
 └── .gitignore
 ```
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Tkinter](https://img.shields.io/badge/UI-Tkinter-brightgreen?logo=windows)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
@@ -78,10 +77,14 @@ This project demonstrates strong skills in **Python desktop development, databas
 
 ### Running the Application:
 GUI Mode (default):
+```
 - python shppngCart.py
+```
 
 CLI Mode:
+```
 - python shppngCart.py --cli
+```
 
 ---
 
