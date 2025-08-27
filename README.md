@@ -14,8 +14,9 @@ This project demonstrates strong skills in **Python desktop development, databas
 │   ├── product.py
 ├── database/
 │   └── logger.py
-├── uis/
+├── gui/
 │   ├── gui.py
+├── uis/
 │   ├── themes.py
 │   └── save.py
 ├── jsons/
