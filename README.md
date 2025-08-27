@@ -97,6 +97,13 @@ CLI Mode:
 - Update database credentials inside **shppngCart.py** in the **TUNGCART_DB** configuration block with dotenv secure protection.
 
 ---
+
+## 💥 İmportant Reminder:
+
+- Don't forget to change the database information in the code!
+
+---
+
 ## 👑 Author:
 
         Tunç KUL
