@@ -53,6 +53,7 @@ This project demonstrates strong skills in **Python desktop development, databas
   - JSONB support for cart states  
   - Sequence & Trigger management for clean log handling  
 - **CLI Menu**:
+```
 ====== Tungshoop SHOPPING CART MENU ======
 1.View Products
 2.Add Product to Cart
@@ -62,6 +63,7 @@ This project demonstrates strong skills in **Python desktop development, databas
 6.Clear Cart
 7.Checkout
 8.Exit
+```
 
 ---
 
