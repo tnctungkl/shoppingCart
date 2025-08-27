@@ -14,6 +14,7 @@ This project demonstrates strong skills in **Python desktop development, databas
 
 ## 📂 Project Structure:
 
+```
 ├── cart/
 │   ├── cart.py
 │   ├── product.py
@@ -30,6 +31,7 @@ This project demonstrates strong skills in **Python desktop development, databas
 ├── tungshoop_sql.sql
 ├── requirements.txt
 └── .gitignore
+```
 
 ---
 
